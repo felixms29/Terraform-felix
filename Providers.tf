@@ -7,6 +7,6 @@ terraform {
   }
 }
 
-# provider "aws" {
+# pterrovider "aws" {
 #   # Configuration options
 # }
